@@ -28,3 +28,8 @@ This project uses Machine Learning and Computer Vision to detect plant leaf dise
 Install requirements
 
 Run app.py
+
+
+**Dataset and Model Drive Link:**
+
+https://drive.google.com/drive/u/1/folders/1G9ztp4RaoxW15ttv7FjkLPSJ2uPqw0WG
